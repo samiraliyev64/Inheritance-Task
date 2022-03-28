@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\bin\Debug\netcoreapp3.1\Inheritance-Task2.exe
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\bin\Debug\netcoreapp3.1\Inheritance-Task2.deps.json
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\bin\Debug\netcoreapp3.1\Inheritance-Task2.runtimeconfig.json
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\bin\Debug\netcoreapp3.1\Inheritance-Task2.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\bin\Debug\netcoreapp3.1\Inheritance-Task2.dll
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\bin\Debug\netcoreapp3.1\Inheritance-Task2.pdb
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.AssemblyInfo.cs
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.dll
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.pdb
+C:\Users\HP\source\repos\Inheritance-Task2\Inheritance-Task2\obj\Debug\netcoreapp3.1\Inheritance-Task2.genruntimeconfig.cache
